@@ -40,5 +40,10 @@ Result: 990
 
 ## Solution
 
-Submit your solution via a personal github link and please be sure to document how to run everything.
+Submit the solution via a personal github link and please be sure to document how to run everything.
 
+## How to run the code
+
+If you use `cargo`, you can run `cargo run` and the output will be printed for the provided data. Running `cargo test` runs the tests asserting that the solution matches the actual result.
+
+You can also use `rustc` to compile the code and then run the binary.
